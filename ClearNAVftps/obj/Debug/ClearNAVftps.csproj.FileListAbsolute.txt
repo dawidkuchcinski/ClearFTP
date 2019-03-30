@@ -1,0 +1,10 @@
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\bin\Debug\ClearNAVftps.exe
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\bin\Debug\ClearNAVftps.pdb
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.csprojAssemblyReference.cache
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.csproj.CoreCompileInputs.cache
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.exe
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.pdb
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\bin\Debug\ClearNAVftps.exe.manifest
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\bin\Debug\ClearNAVftps.application
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.exe.manifest
+C:\Users\Dawid IT\source\repos\ClearNAVftps\ClearNAVftps\obj\Debug\ClearNAVftps.application
